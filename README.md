@@ -36,4 +36,4 @@
 ## 💬 Обратная связь:
 Если у тебя есть вопросы или предложения — не стесняйся писать мне. Всегда рад обсудить проекты и идеи!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herreh174&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
